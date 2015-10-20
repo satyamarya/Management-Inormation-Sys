@@ -1,0 +1,68 @@
+#home a{
+
+margin: 2% auto;
+	text-align: center;
+	width: 50%;
+	max-width: 400px; 
+	
+ }
+  
+ #home{
+ text-align:center;
+ }
+  #sem1 a{
+
+margin: 2% auto;
+	text-align: center;
+	width: 50%;
+	max-width: 400px; 
+	
+
+ }
+  #sem2 a{
+
+margin: 2% auto;
+	text-align: center;
+	width: 50%;
+	max-width: 400px; 
+ }
+ #sem3 a{
+
+margin: 2% auto;
+	text-align: center;
+	width: 50%;
+	max-width: 400px; 
+ }
+  #sem4 a{
+
+margin: 2% auto;
+	text-align: center;
+	width: 50%;
+	max-width: 400px; 
+ }
+  #sem5 a{
+
+margin: 2% auto;
+	text-align: center;
+	width: 50%;
+	max-width: 400px; 
+ }
+  #sem6 a{
+
+margin: 2% auto;
+	text-align: center;
+	width: 50%;
+	max-width: 400px; 
+ }
+#j{
+	border:3px solid black;
+	margin:5px;
+}
+#kk{
+	margin:10px;
+}
+body{
+	background-color:#F8F8F8;
+	size:auto;
+	
+}
